@@ -78,7 +78,7 @@ coverage.xml
 .scrapy
 
 # Documentation
-docs/
+docs/build/*
 
 # PyBuilder
 target/
