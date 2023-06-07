@@ -9,7 +9,9 @@ dev_requirements = [
 ]
 
 docs_requirements = [
-    'pdoc3',
+    'sphinx==5.2.3',
+    'sphinx-rtd-theme==1.0.0',
+    'myst-parser==0.18.1',
 ]
 
 setup(
